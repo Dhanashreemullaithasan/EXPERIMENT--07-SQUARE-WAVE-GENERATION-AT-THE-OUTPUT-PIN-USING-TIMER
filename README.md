@@ -94,7 +94,6 @@ Step14. click on debug and simulate using simulation as shown below
  
 
   
-
 ## STM 32 CUBE PROGRAM :
 ```
 Developed by: Dhanashree M
@@ -166,19 +165,24 @@ void SystemClock_Config(void)
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-![pmcex71](https://github.com/Dhanashreemullaithasan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94165415/d9885535-5f6b-462f-8f9f-ba5c3a3e8166)
+![pmcex71](https://github.com/Dhanashreemullaithasan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94165415/231d3823-b90c-49ca-8bef-37a0877e60d1)
 
 TON = 2 TOFF= 2 TOTAL TIME = 4 FREQUENCY = 1/(TOTAL TIME) = 250Hz
 
 FOR PULSE AT 700
 
+![pmcex72](https://github.com/Dhanashreemullaithasan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94165415/09748580-bdf8-4599-b9de-bff725fe8051)
 
 TON = 3 TOFF= 1 TOTAL TIME = 4 FREQUENCY = 1/(TOTAL TIME)= 250Hz
 
 FOR PULSE AT 900
 
+![pmcex73](https://github.com/Dhanashreemullaithasan/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94165415/82bfb56d-8950-4172-8bef-970dd79cfb4d)
+
 TON = 3.5 TOFF= 0.5 TOTAL TIME = 4 FREQUENCY = 1/(TOTAL TIME)= 250Hz
+
 ## Result :
+
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
 
